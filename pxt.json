@@ -9,9 +9,8 @@
         "main.ts",
         "README.md"
     ],
-    "preferredEditor": "tsprj",
+    "preferredEditor": "blocksprj",
     "testFiles": [
         "test.ts"
-    ],
-    "version": "0.1.0"
+    ]
 }
