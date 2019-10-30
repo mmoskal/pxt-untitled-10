@@ -1,5 +1,5 @@
 controller.A.onEvent(ControllerButtonEvent.Pressed, function () {
-	
+    scene.setBackgroundColor(0)
 })
 let mySprite = sprites.create(img`
 . . . . . . . . . . . . . . . . 
